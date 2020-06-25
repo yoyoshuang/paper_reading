@@ -1,15 +1,4 @@
----
-title: End-to-End Object Detection with Transformers 
-date: 2020-06-16 10:23:11
-tags:
-typora-root-url: ../
-coauthor: haoshuang
 
----
-
-一种使用 transeformers 实现 end to end 方式的目标检测算法
-
-<escape><!-- more --></escape>
 
 #  End-to-End Object Detection with Transformers  -- from Facebook AI
 
